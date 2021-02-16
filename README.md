@@ -1,4 +1,4 @@
-The Game of War, fully written in **Java**, does the following:
+The Game of War, is the card game "Game of War", but fully translated into **Java**, and does the following:
 - Shuffle deck of 52 cards (No jokers)
 - Distribute cards to player1 and player2
 - Each player places one card to the played pile (repeat)
